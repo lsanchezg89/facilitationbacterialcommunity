@@ -18,10 +18,10 @@ Simulations of confronted-colonies for [A-A](Simulations/Confronted-Colonies/Con
 
 - Simulations of confronted-colonies for [A-R](Simulations/Confronted-Colonies/ConfrontedColonies_AR_NomforA.mp4) and [A-S](Simulations/Confronted-Colonies/ConfrontedColonies_AS_NomforA.mp4). Antagonists are in red, sensitive bacteria in green and resistant bacteria in blue.
 
-- Simulations of artificial communities for [A-S](Simulations/Artificial-Communities/ArtificialCommunities_AS_NomforA.mp4) and [A-S-R](Simulations/Confronted-Colonies/ConfrontedColonies_AS_NomforA.mp4). Antagonists are in red, sensitive bacteria in green, resistant bacteria are not shown. Unlike the figures shown in the manuscript, concentrations were not binarized.
+- Simulations of artificial communities for [A-S](Simulations/Artificial-Communities/ArtificialCommunities_AS_NomforA.mp4) and [A-S-R](Simulations/Confronted-Colonies/ConfrontedColonies_AS_NomforA.mp4). Antagonists are in red, sensitive bacteria in green, resistant bacteria are not shown. Unlike the figures shown in the manuscript, concentrations shown here were not binarized.
 
 ### Second Model Amendment: Considering bacterial aggregates
 
 - Simulations of confronted-colonies for [A-A](Simulations/Confronted-Colonies/ConfrontedColonies_AA_BacterialAggregates.mp4), [A-R](Simulations/Confronted-Colonies/ConfrontedColonies_AR_BacterialAggregates.mp4) and [A-S](Simulations/Confronted-Colonies/ConfrontedColonies_AS_BacterialAggregates.mp4). Antagonists are in red, sensitive bacteria in green and resistant bacteria in blue.
 
-- Simulations of artificial communities for [A-S](Simulations/Artificial-Communities/ArtificialCommunities_AS_BacterialAggregates.mp4) and [A-S-R](Simulations/Confronted-Colonies/ConfrontedColonies_AS_BacterialAggregates.mp4). Antagonists are in red, sensitive bacteria in green, resistant bacteria are not shown. Unlike the figures shown in the manuscript, concentrations were not binarized.
+- Simulations of artificial communities for [A-S](Simulations/Artificial-Communities/ArtificialCommunities_AS_BacterialAggregates.mp4) and [A-S-R](Simulations/Confronted-Colonies/ConfrontedColonies_AS_BacterialAggregates.mp4). Antagonists are in red, sensitive bacteria in green, resistant bacteria are not shown. Unlike the figures shown in the manuscript, concentrations shown here were not binarized.
