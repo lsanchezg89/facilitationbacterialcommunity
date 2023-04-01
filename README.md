@@ -4,8 +4,12 @@ This repository contains supplementary material of the paper.
 
 ## Supplementary Methods
 
-\texttt{Python} code for solving the reaction-difussion model can be found [here](Code/ScriptASR.py).
+Python code for solving the reaction-difussion model can be found [here](Code/ScriptASR.py).
 
 ## Suplementary Results
 
 Video of confronted-colonies and artificial communities can be found [here](Simulations).
+
+### Original Model
+
+
