@@ -1,5 +1,4 @@
-# Assessing the feasibility of a non-genetic facilitation mechanism in 2D artificial bacterial communities via mathematical modeling:
-# Supplementary material
+# Assessing the feasibility of a non-genetic facilitation mechanism in 2D artificial bacterial communities via mathematical modeling: Supplementary material
 
 This repository contains supplementary material of the paper.
 
@@ -9,4 +8,4 @@ This repository contains supplementary material of the paper.
 
 ## Suplementary Results
 
-Video of confronted-colonies and artificial communities can be found [here]{Simulations}.
+Video of confronted-colonies and artificial communities can be found [here](Simulations).
